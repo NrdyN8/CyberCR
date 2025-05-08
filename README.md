@@ -9,6 +9,8 @@
         |___/                              
 ```
 ---
+[OhMyZSH](https://ohmyz.sh) must be installed:
+
 
 To use the theme itself copy & paste the following into your terminal
 1. ```bash

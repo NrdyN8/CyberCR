@@ -11,7 +11,7 @@
 ---
 
 To use the theme itself copy & paste the following into your terminal
-```bash
-curl --output $ZSH_CUSTOM/themes/cybercr.zsh-theme "https://raw.githubusercontent.com/NrdyN8/CyberCR/refs/heads/main/cybercr.zsh-theme"
-```
----
+1. ```bash
+    curl --output $ZSH_CUSTOM/themes/cybercr.zsh-theme "https://raw.githubusercontent.com/NrdyN8/CyberCR/refs/heads/main/cybercr.zsh-theme"
+    ```
+2. Update your `.zshrc` and change `ZSH_THEME` to `cybercr`
